@@ -7,17 +7,17 @@
   <tr>
     <td>
       <a href="https://github.com/caroalonso/CADP">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=caroalonso&repo=CADP&theme=github_dark"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=caroalonso&repo=CADP&theme=transparent"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/caroalonso/ADC">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=caroalonso&repo=ADC&theme=github_dark"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=caroalonso&repo=ADC&theme=transparent"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/caroalonso/TDP">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=caroalonso&repo=TDP&theme=github_dark"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=caroalonso&repo=TDP&theme=transparent"/>
       </a>
     </td>
   </tr>
