@@ -1,7 +1,7 @@
 # Universidad
 🎓 Repositorio principal de mi trayectoria académica, con proyectos organizados por materia.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=header&text=Primer%20Año&fontSize=30&fontColor=ffffff&color=0:0d1117,100:30363d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%20Primer%20Año&fontSize=20&fontColor=ffffff&color=0:0d1117,100:30363d" width="100%"/>
 
 <table>
   <tr>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=header&text=Segundo%20Año&fontSize=30&fontColor=ffffff&color=0:0d1117,100:30363d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%20Segundo%20Año&fontSize=20&fontColor=ffffff&color=0:0d1117,100:30363d" width="100%"/>
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=header&text=Tercer%20Año&fontSize=30&fontColor=ffffff&color=0:0d1117,100:30363d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=%20Tercer%20Año&fontSize=20&fontColor=ffffff&color=0:0d1117,100:30363d" width="100%"/>
 
 <table>
   <tr>
