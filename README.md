@@ -3,26 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=header&text=Primer%20Año&fontSize=30&fontColor=ffffff&color=0:0d1117,100:30363d" width="100%"/>
 
-<a href="https://github.com/caroalonso/CADP">
-  <img height="100px"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=caroalonso&repo=CADP&theme=github_dark" />
-</a>
-
-<a href="https://github.com/caroalonso/ADC">
-  <img height="100px"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=caroalonso&repo=ADC&theme=github_dark" />
-</a>
-
-<a href="https://github.com/caroalonso/TDP">
-  <img height="100px"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=caroalonso&repo=TDP&theme=github_dark" />
-</a>
-
-
-
-
-
-
 <table>
   <tr>
     <td>
